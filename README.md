@@ -104,12 +104,6 @@ python hand_gesture_recognition.py
 
 ---
 
-## 🔮 Future Improvements
-
-* Add machine learning-based gesture classification
-* Improve left/right hand detection
-* Support dynamic gestures (motion-based)
-* Integrate with applications (e.g., virtual mouse, games)
 
 ---
 
